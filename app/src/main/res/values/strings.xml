@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">And_Homework_2.1.1</string>
+    <string name="btn_ok_text">OK</string>
+    <string name="et_money_hint">Сумма перевода</string>
+    <string name="et_info_hint">Куда перевести</string>
+    <string name="cb_card_text">С банковской карты</string>
+    <string name="cb_mobile_text">С мобильного телефона</string>
+    <string name="cb_cash_text">Наличными по адресу</string>
+    <string name="btn_ok_card_text">Выбрана оплата по номеру карты.</string>
+    <string name="btn_ok_mobile_text">Выбрана оплата по номеру телефона.</string>
+    <string name="btn_ok_cash_text">Выбрана оплата наличными.</string>
+    <string name="btn_ok_none_text">Вы не выбрали способ оплаты!</string>
+</resources>
